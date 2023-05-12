@@ -1,0 +1,15 @@
+How to Run:
+
+
+
+Open Multiple Year Stock Sheets
+
+Copy VBS script into module for specificed excel project
+
+Data must follow column format of ticker, data, open, high, low, close, volume in that order
+
+Sort data column on the data so that the start of the year is at the top
+
+
+
+
