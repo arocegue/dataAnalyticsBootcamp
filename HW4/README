@@ -1,0 +1,7 @@
+HOW TO RUN
+
+
+
+-Use in a conda environment and activate jupyter lab 
+-Go to the directory containing Starter_Code\PyCitySchools
+-Start PyCitySchools_starter.ipynb
