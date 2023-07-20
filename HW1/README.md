@@ -21,9 +21,9 @@ Using the Excel workbook, modify and analyze the sample-project data and try to 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
 - Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 - Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
-- The dates in the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [this formula]{https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html}. that can be used to convert these timestamps to a normal date.
-    - Create a new column named `Date Created Conversion` that will use [this formula]{https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html}. to convert the data contained in `launched_at` into Excel's date format.
-    - Create a new column named `Date Ended Conversion` that will use [this formula]{https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html}. to convert the data contained in deadline into Excel's date format.
+- The dates in the `deadline` and `launched_at` columns use Unix timestamps. Fortunately for us, [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html). that can be used to convert these timestamps to a normal date.
+    - Create a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html). to convert the data contained in `launched_at` into Excel's date format.
+    - Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html). to convert the data contained in deadline into Excel's date format.
     - Create a new sheet with a pivot table that has a column of `outcome`, rows of `Date Created Conversion`, values based on the count of `outcome`, and filters based on `parent category` and `Years`.
     - Now, create a pivot-chart line graph that visualizes this new table.
 
