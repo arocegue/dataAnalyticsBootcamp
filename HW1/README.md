@@ -18,7 +18,7 @@ Using the Excel workbook, modify and analyze the sample-project data and try to 
     - Create a new column called `Average Donation` that uses a formula to find how much each project backer paid on average.
     - Create two new columns, one called `Parent Category` and another called `Sub-Category`, that use formulas to split the `Category and Sub-Category` column into the two new, separate columns.
     - Create a new sheet with a pivot table that analyzes your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
-
+![](Images/CategoryStats.png)
 - Create a stacked-column pivot chart that can be filtered by country based on the table that you created.
 - Create a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 - Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
