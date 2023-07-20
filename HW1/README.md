@@ -75,7 +75,8 @@ Most people would use the number of campaign backers to assess the success of a 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
 
 - Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
-![](Images/backers01.png)
+
+    ![](Images/backers01.png)
 
 - Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
 
