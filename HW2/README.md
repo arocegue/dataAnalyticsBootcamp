@@ -29,17 +29,13 @@
     
     - Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-
 # Final Product
 
 - The script loops through one year of stock data and reads/ stores all of the following values from each row:
-        - ticker symbol
-  
-        - volume of stock 
-
-        - open price
-
-        - close price
+    - ticker symbol
+    - volume of stock 
+    - open price
+    - close price
 
     - On the same worksheet as the raw data, or on a new worksheet all columns were correctly created for:
 
