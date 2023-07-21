@@ -34,6 +34,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 # Final Product
 
 - The script loops through one year of stock data and reads/ stores all of the following values from each row:
+  
         - ticker symbol 
 
         - volume of stock 
