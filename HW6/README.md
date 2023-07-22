@@ -10,6 +10,9 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
+# Analysis
+
+- The Linear Relationship between the two hemispheres is that the farther you go from the origin of latitude 0, max temperature decreases. And the two meet at its max temp peak at latitude 0 where the slope/vertex is 0. The r-value in the two hemispheres, confirms there is a significant correlation.
 
 # Instructions
 
@@ -79,7 +82,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 1. Create a map that displays a point for every city in the `city_data_df` DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
-![output_data/bokeh_plot.png]()
+![](output_data/bokeh_plot.png)
 2. Narrow down the `city_data_df` DataFrame to find your ideal weather condition. For example:
     - A max temperature lower than 27 degrees but higher than 21
     - Wind speed less than 4.5 m/s
