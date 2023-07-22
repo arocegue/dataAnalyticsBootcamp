@@ -49,7 +49,6 @@ Your summary statistics should include:
 # Create Bar Charts and Pie Charts
 
 1. Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
-
   1. Create the first bar chart with the Pandas `DataFrame.plot()` method.
   2. Create the second bar chart with Matplotlib's `pyplot` methods.
 
