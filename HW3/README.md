@@ -1,4 +1,4 @@
-# HOW TO RUN:
+# How to Run:
 
 - Run each script with its respective dataset
 - Navigate to .py location and run script
