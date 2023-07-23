@@ -31,7 +31,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 - Import each CSV file into its corresponding SQL table.
 
-* Database Schema can be found under schemas.sql
+Database Schema can be found under `schemas.sql`
 
 ## Data Analysis
 
@@ -44,4 +44,4 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-* Data Analysis Queries can be found under queries.sql
+Data Analysis Queries can be found under `queries.sql`
