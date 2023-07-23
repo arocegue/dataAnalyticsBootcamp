@@ -24,7 +24,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 4. Load the query results into a Pandas DataFrame. Explicitly set the column names.
 5. Sort the DataFrame values by "date".
 6. Plot the results by using the DataFrame plot method, as the following image shows:
-    A screenshot depicts the plot.
+    ![](Resources/precipitation.png)
 7. Use Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -37,8 +37,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
     - Filter by the station that has the greatest number of observations.
     - Query the previous 12 months of TOBS data for that station.
     - Plot the results as a histogram with `bins=12`, as the following image shows:
-
-        A screenshot depicts the histogram.
+    ![](Resources/histogram.png)
     - Close your session.
 
 ## Part 2: Design Your Climate App
