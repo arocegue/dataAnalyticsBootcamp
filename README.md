@@ -4,4 +4,4 @@ This is my Data Analytics Portfolio that highlights my skills in its respective 
 
 
 
-Also hosting a website demonstrating API Usage and OpenStreetMap to create an Interactive map for citi bike stations in NY: [link](https://arocegue.github.io/bike_stations_NY/)
+Also hosting a website demonstrating API Usage and OpenStreetMap to create an Interactive map using leaflet for citi bike stations in NY: [link](https://arocegue.github.io/bike_stations_NY/)
