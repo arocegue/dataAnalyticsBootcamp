@@ -21,6 +21,7 @@ Complete the following steps:
   ![](Images/hw01.png)
 
   3. Create a bubble chart that displays each sample.
+     
     - Use `otu_ids` for the x values.
     - Use `sample_values` for the y values.
     - Use `sample_values` for the marker size.
